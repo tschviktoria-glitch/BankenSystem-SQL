@@ -10,6 +10,21 @@ Zusätzlich wurde ein Frontend in Microsoft Access zur Visualisierung und Intera
 
 ---
 
+## 📊 Datenbankdiagramm
+<img src="docs/er_diagram.png" width="700">
+
+---
+
+## 💻 Frontend
+<img src="docs/frontend.png" width="700">
+
+---
+
+## 🎨 Logo
+<img src="docs/logo.png" width="300">
+
+---
+
 ## 🧩 Technologien
 
 * Microsoft SQL Server
