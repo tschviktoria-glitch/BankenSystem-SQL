@@ -15,11 +15,6 @@ Zusätzlich wurde ein Frontend in Microsoft Access zur Visualisierung und Intera
 
 ---
 
-## 💻 Frontend
-<img src="docs/frontend.png" width="700">
-
----
-
 ## 🎨 Logo
 <img src="docs/logo.png" width="300">
 
@@ -78,6 +73,11 @@ Zusätzlich wurde ein Frontend in Microsoft Access zur Visualisierung und Intera
 /frontend
     BankenSystem.accdb
 ```
+
+---
+
+## 💻 Frontend
+<img src="docs/frontend.png" width="700">
 
 ---
 
