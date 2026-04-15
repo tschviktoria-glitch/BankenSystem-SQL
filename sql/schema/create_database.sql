@@ -1,0 +1,11 @@
+CREATE DATABASE [BankenSystem];
+GO
+
+USE BankenSystem;
+GO
+
+SET ANSI_NULLS ON;
+GO
+
+SET QUOTED_IDENTIFIER ON;
+GO
